@@ -1,25 +1,34 @@
 # Random-Life- V1.0
 随机打破算法，随机重启人生；
+
 Break the algorithm randomly and restart the boring life；
 
 所有英语，来自百度翻译
+
 All English, from Baidu translation
 
 # 约定 Agree
 约定1：遇到选择时，2秒内无法发出坚定和确定的声音，请使用随机。
+
 Agree 1: When you encounter a selection, you can't make a firm and sure sound within 2 seconds. Please use random.
 
 约定2：一些东西，你遗忘掉了，请把它加入日常随机清单，每天处理下被遗落的它.
+
 Agree 2:If you have forgotten something, please add it to the daily random list and deal with it every day
+
 例如：我有5瓶香水，但每天出门都会忘记喷； 将香水添加到每日自动生成的随机清单，按照随机清单毫不犹豫的选择那瓶香水（即是个提醒也不用选择）
+
 eg: I have 5 bottles of perfume, but I forget to spray every day. Add perfume to the daily random list. Choose the perfume according to the random list without hesitation.
 
 ...（一起约定，慢慢添加）
+
 ... Agree together and add slowly
 
 
 阅读下面或许会浪费时间（真的是浪费时间吗，你为什么那么相信我）
-Reading below may be a waste of time，
+
+Reading below may be a waste of time
+
 Is it really a waste of time? Why do you believe me so much
 
  
