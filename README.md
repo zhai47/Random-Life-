@@ -3,6 +3,8 @@
 
 Break the algorithm randomly and restart the boring life；
 
+
+
 所有英语，来自百度翻译
 
 All English, from Baidu translation
