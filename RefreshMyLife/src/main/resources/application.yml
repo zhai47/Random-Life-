@@ -1,0 +1,22 @@
+
+spring:
+  application:
+    name: refresh-life
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://sh-cynosdbmysql-grp-h9bvmyic.sql.tencentcdb.com:27740/refresh-life
+    username: ENC(dtSOASRXy96SM812FmM3GQ==)
+    password: ENC(AzJaXXIF6pj21xmMzjMAbouTDsqWhf5s)
+  mail:
+    host: smtp.qq.com
+    username: ENC(Y6tVJYBArZA/acqNWqcvhL2Tg4023yGuRTRGd0V1z3Y=)
+    default-encoding: UTF-8
+    password: ENC(Y6tVJYBArZA/acqNWqcvhL2Tg4023yGuRTRGd0V1z3Y=)
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #开启sql日志
+server:
+  port:
+
+
