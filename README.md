@@ -85,6 +85,5 @@ Life may be too boring, random, the world is big, there are always things you ha
 
 The rotten smell buried under the Internet will certainly expose tentacles, and random and unintentional will dig out the things deliberately covered.
 
-嗡。达啦。德达啦。德热那摩哈啦喝啦。吽哈绕娑哈
 
 2021/12/10
